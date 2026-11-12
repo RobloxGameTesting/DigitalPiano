@@ -1,0 +1,33 @@
+return {
+	Calendar = "rbxassetid://8915045287",
+	Caret = "rbxassetid://8915045496",
+	ChevronLeft = "rbxassetid://8982072482",
+	Close = "rbxassetid://8915045615",
+	Clothing = "rbxassetid://8915045766",
+	EmptyShop = "rbxassetid://9246449575",
+	Eye = "rbxassetid://8915045943",
+	Filter = "rbxassetid://8981626915",
+	Gamepad = {
+		ButtonA = "rbxassetid://8712691282",
+		ButtonB = "rbxassetid://8712691429",
+		ButtonL1 = "rbxassetid://8712691596",
+		ButtonL2 = "rbxassetid://8712691753",
+		ButtonR1 = "rbxassetid://8712691861",
+		ButtonR2 = "rbxassetid://8712691936",
+		ButtonX = "rbxassetid://8712692030",
+		ButtonY = "rbxassetid://8712692150",
+		DPadDown = "rbxassetid://8712692266",
+		DPadLeft = "rbxassetid://8712692372",
+		DPadRight = "rbxassetid://8712692480",
+		DPadUp = "rbxassetid://8712692563"
+	},
+	Info = "rbxassetid://8915046089",
+	KeyBacking = "rbxassetid://9186036717",
+	RadioButtonInner = "rbxassetid://8971710558",
+	RadioButtonOuter = "rbxassetid://8971710724",
+	Robux = "rbxassetid://8915046254",
+	Rotation = "rbxassetid://8915046440",
+	ShoppingCart = "rbxassetid://9133862231",
+	Sparkle = "rbxassetid://8915046721",
+	Timer = "rbxassetid://8915046889"
+}
